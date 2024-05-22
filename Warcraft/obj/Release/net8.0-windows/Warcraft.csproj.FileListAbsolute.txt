@@ -1,0 +1,16 @@
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\Warcraft\bin\Release\net8.0-windows\Warcraft.exe
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\Warcraft\bin\Release\net8.0-windows\Warcraft.deps.json
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\Warcraft\bin\Release\net8.0-windows\Warcraft.runtimeconfig.json
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\Warcraft\bin\Release\net8.0-windows\Warcraft.dll
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\Warcraft\bin\Release\net8.0-windows\Warcraft.pdb
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\Warcraft\obj\Release\net8.0-windows\Warcraft.Form1.resources
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\Warcraft\obj\Release\net8.0-windows\Warcraft.csproj.GenerateResource.cache
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\Warcraft\obj\Release\net8.0-windows\Warcraft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\Warcraft\obj\Release\net8.0-windows\Warcraft.AssemblyInfoInputs.cache
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\Warcraft\obj\Release\net8.0-windows\Warcraft.AssemblyInfo.cs
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\Warcraft\obj\Release\net8.0-windows\Warcraft.csproj.CoreCompileInputs.cache
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\Warcraft\obj\Release\net8.0-windows\Warcraft.dll
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\Warcraft\obj\Release\net8.0-windows\refint\Warcraft.dll
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\Warcraft\obj\Release\net8.0-windows\Warcraft.pdb
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\Warcraft\obj\Release\net8.0-windows\Warcraft.genruntimeconfig.cache
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\Warcraft\obj\Release\net8.0-windows\ref\Warcraft.dll
