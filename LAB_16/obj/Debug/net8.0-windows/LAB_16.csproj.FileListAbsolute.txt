@@ -1,0 +1,11 @@
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\LAB_16\obj\Debug\net8.0-windows\LAB_16.csproj.AssemblyReference.cache
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\LAB_16\obj\Debug\net8.0-windows\LAB_16.DataAddForm.resources
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\LAB_16\obj\Debug\net8.0-windows\LAB_16.DataEditForm.resources
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\LAB_16\obj\Debug\net8.0-windows\LAB_16.DataGenerateForm.resources
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\LAB_16\obj\Debug\net8.0-windows\LAB_16.Form1.resources
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\LAB_16\obj\Debug\net8.0-windows\LAB_16.Properties.Resources.resources
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\LAB_16\obj\Debug\net8.0-windows\LAB_16.csproj.GenerateResource.cache
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\LAB_16\obj\Debug\net8.0-windows\LAB_16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\LAB_16\obj\Debug\net8.0-windows\LAB_16.AssemblyInfoInputs.cache
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\LAB_16\obj\Debug\net8.0-windows\LAB_16.AssemblyInfo.cs
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\LAB_16\obj\Debug\net8.0-windows\LAB_16.csproj.CoreCompileInputs.cache
