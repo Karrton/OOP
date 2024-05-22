@@ -1,0 +1,14 @@
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\LabLibrary\bin\Debug\net8.0\LabLibrary.deps.json
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\LabLibrary\bin\Debug\net8.0\LabLibrary.dll
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\LabLibrary\bin\Debug\net8.0\LabLibrary.pdb
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\LabLibrary\obj\Debug\net8.0\LabLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\LabLibrary\obj\Debug\net8.0\LabLibrary.AssemblyInfoInputs.cache
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\LabLibrary\obj\Debug\net8.0\LabLibrary.AssemblyInfo.cs
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\LabLibrary\obj\Debug\net8.0\LabLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\LabLibrary\obj\Debug\net8.0\refint\LabLibrary.dll
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\LabLibrary\obj\Debug\net8.0\LabLibrary.pdb
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\LabLibrary\obj\Debug\net8.0\ref\LabLibrary.dll
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\LabLibrary\bin\Debug\net8.0\Tree.dll
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\LabLibrary\bin\Debug\net8.0\Tree.pdb
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\LabLibrary\obj\Debug\net8.0\LabLibrary.csproj.AssemblyReference.cache
+C:\Users\Dreamer\Desktop\Лабораторные и прочее\ООП\LabLibrary\obj\Debug\net8.0\LabLibrary.csproj.Up2Date

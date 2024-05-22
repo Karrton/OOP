@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="LabLibrary">
+      <HintPath>obj\Debug\net8.0\LabLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Tree">
+      <HintPath>..\..\..\..\source\repos\Tree\obj\Debug\net8.0\Tree.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
